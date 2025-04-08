@@ -7,13 +7,13 @@
 
 - 👯 I’m looking to collaborate on **Frontend Development**
 
-- 🤝 I’m looking for help with **AI Integration**
+- 🤝 I’m looking for help with **Microservices**
 
 - 💬 Ask me about **Spring Boot, Data Structure, and Algorithm**
 
-- 📫 How to reach me **ramkrushnazende@gmail.com**
+- 📫 How to reach me **ramkrushnazende@gmail.com / zenderamkrushna@gmailcom**
 
-- ⚡ Fun fact **Quick Learner**
+- ⚡ Fun fact **Self Learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
